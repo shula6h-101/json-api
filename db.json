@@ -1,16 +1,27 @@
 {
-  "posts":[
+  "streams": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "title": "Value Stream Mapping",
+      "description": "sacasascacasc",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "title": "first stream",
+      "description": "creating 5 streams to test delete option",
+      "userId": "106871547628587153614",
+      "id": 2
+    },
+    {
+      "title": "second Stream",
+      "description": "creating 5 streams to test delete option",
+      "userId": "106871547628587153614",
+      "id": 3
+    },
+    {
+      "title": "three",
+      "description": "creating 5 streams to test delete option",
+      "userId": "106871547628587153614",
+      "id": 4
     }
   ]
 }
